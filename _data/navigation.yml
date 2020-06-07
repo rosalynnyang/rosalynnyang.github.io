@@ -1,16 +1,9 @@
-# main links
 main:
-- title: "About"
-  url: /about/
-- title: "Projects"
-  url: /projects/
-- title: "Study Notes"
-  url: /study-notes/
-- title: "Category"
-  url: /categories/
-- title: "Tag"
-  url: /tags/
-- title: "Resources"
-  url: /resources/
-- title: "Sitemap"
-  url: /sitemap/
+  - title: "Posts"
+    url: /posts/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+  - title: "About"
+    url: /about/

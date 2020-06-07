@@ -1,12 +1,8 @@
 ---
-title: About
 permalink: /about/
+title: "About"
 ---
 
-Xin (Rosalynn) Yang is an enthusiastic research methodologist with passion in methodological research and expertise in experiment design, questionnaire development, cognitive interviewing, user research, statistical modeling, and application of machine learning methods. A proficient R and Python user and a self-starter.
+Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
 
-Recent research:
-
-* Yang, X., *Using Active Learning and Automated Machine Learning to Code Open-ended Questions.* Paper presented at the Government Advances in Statistical Programming Workshop, Washington, DC, 2019
-* Yang, X., Sun, H., Caporaso, A., Cantor, D., *What is New? Comparing Themes from Web Probing with Cognitive Interviewing for Evaluation of Health Items.* Paper presented at the American Association of Public Opinion Research annual conference, Toronto, Canada, 2019
-* Yang, X., Townsend, R., and Brick, J. M., *Using Online Panel Surveys to Estimate Population-level Multivariate Health relationships.* Poster presented at the American Association for Public Opinion Research annual conference, Denver, CO, 2018
+Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
