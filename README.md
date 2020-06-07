@@ -1,2 +1,2 @@
-# elvinouyang.github.io
-My personal blog space that showcases my project work samples, published articles, and ongoing project ideas.
+# rosalynnyang.github.io
+Welcome to my blog. I post about analytical techniques and tools used related to social science research methods.
