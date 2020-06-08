@@ -2,8 +2,8 @@
 title: "Checking Survey Data"
 date: 2019-07-05
 header:
-  image: /assets/images/checking/background.jpg
-  teaser: /assets/images/checking/background.jpg
+  image: /assets/images/post1/background.jpg
+  teaser: /assets/images/post1/background.jpg
   caption: image from web
 tags:
 - survey
@@ -369,7 +369,7 @@ plt.show()
 ```
 
 
-![png](/assets/images/checking/output_27_0.png)
+![png](/assets/images/post1/output_27_0.png)
 
 
 The above bar chart shows some missing pattern - we can see that there are a number of variables that have 287, 169, and 1146 missing data, which implies that this kind of missingness could be due to legitimate skip of survey questions. The rest of the missing values are only specific to certain variables, which could be due to respondent skipping that question (don't know or refusal). For now, we don't want to recode or impute for missing values. These procedures are usually carried out with specific analysis intentions.
