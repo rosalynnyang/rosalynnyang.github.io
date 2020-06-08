@@ -1,5 +1,5 @@
 ---
-title: "Checking Survey Data"
+title: "Checking survey data: examine rows, columns, data types, and missing values"
 date: 2019-07-05
 header:
   image: /assets/images/post1/background.jpg
@@ -13,9 +13,6 @@ tags:
 categories:
 - survey
 ---
-
-
-# Checking survey data: examine rows, columns, data types, and missing values
 
 In this post, I will cover the steps that I usually take when taking a first look at some survey data with Python. <br> 
 This post uses data from 2016 OSMI Mental Health in Tech Survey, which is a publicly available [Kaggle dataset.](https://www.kaggle.com/osmi/mental-health-in-tech-2016)
