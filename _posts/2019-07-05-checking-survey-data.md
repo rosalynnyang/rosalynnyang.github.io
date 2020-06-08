@@ -1,5 +1,5 @@
 ---
-title: "Checking survey data: examine rows, columns, data types, and missing values"
+title: "Checking survey data (1): examine rows, columns, data types, and missing values"
 date: 2019-07-05
 header:
   image: /assets/images/post1/background.jpg
