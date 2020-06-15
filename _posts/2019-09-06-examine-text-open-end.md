@@ -106,7 +106,7 @@ plt.show()
 ```
 
 
-![png](/assets/images/post3/output_13_0.png)
+![png](/assets/images/post4/output_13_0.png)
 
 
 With `wordcloud` and `matplotlib` libraries, we could create a simple wordcloud (without any customizations) just to have a feeling of what answers were generally included in the responses.
