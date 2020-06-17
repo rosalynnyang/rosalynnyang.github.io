@@ -1,5 +1,5 @@
 ---
-title: "Working with open-ended survey responses: examine texts"
+title: "Working with open-ended survey responses(1): examine texts"
 date: 2019-09-06
 header:
   image: /assets/images/post4/background.jpg

@@ -1,5 +1,5 @@
 ---
-title: "Working with open-ended survey responses: text preprocessing"
+title: "Working with open-ended survey responses(2): text preprocessing"
 date: 2019-09-06
 header:
   image: /assets/images/post5/background.jpg
@@ -323,7 +323,7 @@ print(wnl.lemmatize("depending", pos='n'))
     depending
     
 
-When it's a verb, it would be lemmatized into "depend":
+When it's specified as a verb, it would be lemmatized into "depend":
 
 
 ```python
@@ -333,6 +333,6 @@ print(wnl.lemmatize("depending", pos='v'))
     depend
     
 
-Stemming and lemmatization are techniques that are even more specific to the analysis question. I tend to not use them in my preprocessing steps unless needed to. 
+Stemming and lemmatization are techniques that are specific to the analysis questions. I tend to not use them in my preprocessing steps unless needed. 
 
-In the next post, I will discuss how to transform text into numbers and run basic topic models to understand what's mentioned in the responses.
+In the next post, I will discuss how to transform text into numbers and understand the major topics mentioned in the responses with topic models.

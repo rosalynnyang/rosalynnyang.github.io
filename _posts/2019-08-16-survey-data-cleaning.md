@@ -1,5 +1,5 @@
 ---
-title: "Working with survey data: more data cleaning"
+title: "Working with survey data(3): more data cleaning"
 date: 2019-07-05
 header:
   image: /assets/images/post3/background.jpeg
